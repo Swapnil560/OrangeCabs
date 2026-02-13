@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Safe & Secure Car Rentals",
+    "description": "Verified drivers, GPS-enabled cars, and maximum comfort for city & outstation trips.",
+    "image": "/safe_and_secure.jpg"
+  },
+  {
+    "title": "24/7 Service in Guwahati",
+    "description": " Round-the-clock cab bookings for airport transfers, business trips, and tours.",
+    "image": "/24x7.jpg"
+  },
+  {
+    "title": "Local Expertise for Meghalaya Tours",
+    "description": " Drivers who know Shillong, Dawki & Cherrapunji routes for smooth travel.",
+    "image": "/localexpertise.jpg"
+  },
+  {
+    "title": "5-Star Rated Rental Cars",
+    "description": "Trusted by 500+ travelers for city cabs and Northeast India road trips.",
+    "image": "/5star.jpeg"
+  }
+]
